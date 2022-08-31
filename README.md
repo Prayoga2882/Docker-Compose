@@ -21,7 +21,7 @@ Step 2: Export konfigurasi database sebagai environment variabel
 export DB_HOST=localhost
 export DB_PORT=5432
 export DB_USER=postgres
-export DB_PASSWORD=rahasia
+export DB_PASSWORD=postgres
 export DB_DATABASE=belajar
 ```
 
